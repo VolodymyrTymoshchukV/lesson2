@@ -1,0 +1,21 @@
+.titleText {
+     background: rgb(247, 207, 207);
+     color: rgb(196, 6, 38);
+     size: 50px;
+     padding-left: 20px;
+     box-sizing: border-box;
+}
+.subtitleText {
+     background: rgb(247, 207, 207);
+     padding-left: 20px;
+     box-sizing: border-box;
+}
+.mainText {
+     background: white;
+     padding-left: 20px;
+     box-sizing: border-box;
+}
+.mainTextMod {
+     border-left: 3px solid rgb(196, 6, 38);
+     color: rgb(196, 6, 38);
+}
